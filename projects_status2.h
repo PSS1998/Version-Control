@@ -1,0 +1,1 @@
+void projects_status2(struct user* uptr, int *id);

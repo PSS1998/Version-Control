@@ -1,0 +1,1 @@
+void login2(int *tempid, struct user* uptr, int *r, int *id, char p2[], char p3[], int *in, int *j);

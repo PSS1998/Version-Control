@@ -1,0 +1,1 @@
+void new_project2(int *tempid, struct user* uptr, int *m, int *id, char p2[], int* n_p, struct project* pptr);

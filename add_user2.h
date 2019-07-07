@@ -1,0 +1,1 @@
+void add_user2(int *tempid, struct user* uptr, int *z, int *id, char p2[], char p3[], int *w, int *e, struct project* pptr, int* userm);
